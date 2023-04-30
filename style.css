@@ -1203,7 +1203,7 @@ button {
 .Z {
    position: absolute;
    left: 5%;
-   top: 1062.5%;
+   top: 1082.5%;
    font-size: 8px;
    margin-top: 8px;
 }
@@ -1211,7 +1211,7 @@ button {
     width: 7px;
     height: 7px;
     position: absolute; 
-    top: 1070%; 
+    top: 1090%; 
     left: 15%;
     margin-left: 15px;
     margin-right: 15px; 
@@ -1220,7 +1220,7 @@ button {
    width: 7px;
    height: 7px;
    position: absolute; 
-   top: 1070%; 
+   top: 1090%; 
    left: 20%;
    margin-left: 15px;
    margin-right: 15px; 
@@ -1229,14 +1229,14 @@ button {
     width: 7px;
     height: 7px;
     position: absolute;
-    top: 1070%;
+    top: 1090%;
     left: 30%;
 }
 .podval {
    font-size: 6px;   
    position: absolute;
    left: 60%;
-   top: 1065.5%;
+   top: 1095.5%;
 }   
 }
   
